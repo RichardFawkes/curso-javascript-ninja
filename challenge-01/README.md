@@ -29,7 +29,7 @@ var comida = ["arroz", "feijao", "ovo"]
 comida[1];
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
-soma == myvar;
+soma === myvar;
 typeof soma;
 typeof myvar;
 
